@@ -128,7 +128,7 @@ li {
 }
 
 .item-card a img:hover {
-  box-shadow: 0 0 5px var(--primary-color);
+  box-shadow: 0 0 15px var(--primary-color);
 }
 
 .item-card h2 {
