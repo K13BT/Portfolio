@@ -21,7 +21,7 @@ const Projects = () => {
           <div className="item-card">
             <a href='https://expense-tracker-k13bt.vercel.app/'><img src={require("../img/expense.png")} alt="A project" /> </a>   
             <h2>Expense Tracker</h2>
-            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ullam, illo?</p> 
+            <p></p> 
             <div className="links">
               <a href='https://expense-tracker-k13bt.vercel.app/' className='s-link'>Demo</a>
               <a href='https://github.com/K13BT/Expense-tracker'><i className='fa fa-github s-link'></i></a>
