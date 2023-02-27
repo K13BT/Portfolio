@@ -20,7 +20,7 @@ const Projects = () => {
           </div>
           <div className="item-card">
             <a href='https://expense-tracker-k13bt.vercel.app/'><img src={require("../img/expense.png")} alt="A project" /> </a>   
-            <h2>Expnese Tracker</h2>
+            <h2>Expense Tracker</h2>
             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ullam, illo?</p> 
             <div className="links">
               <a href='https://expense-tracker-k13bt.vercel.app/' className='s-link'>Demo</a>
