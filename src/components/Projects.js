@@ -8,13 +8,13 @@ const Projects = () => {
         <h3>PROJECTS</h3>
         <div className="project-items">
           <div className="item-card">
-            <a href='https://image-finder-kappa.vercel.app/'><img src={require("../img/imagefinder.png")} alt="A project" /></a>
+            <a href='https://image-finder-eta.vercel.app/'><img src={require("../img/imagefinder.png")} alt="A project" /></a>
                          
             <h2>Image Finder</h2>
             <p>Image finder made with react and tailwind that uses pixabay api to generate images</p>
             <div className="links">
-              <a href='https://image-finder-kappa.vercel.app/' className='s-link'>Demo</a>
-              <a href='https://github.com/K13BT/Image_Finder'><i className='fa fa-github s-liink'></i></a>
+              <a href='https://image-finder-eta.vercel.app/' className='s-link'>Demo</a>
+              <a href='https://github.com/K13BT/Image-finder'><i className='fa fa-github s-liink'></i></a>
             </div>
             
           </div>
