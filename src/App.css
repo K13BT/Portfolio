@@ -114,6 +114,7 @@ li {
   column-gap: 30px;
   padding: 20px 10px;
   border-bottom: 1px #fff solid;
+  align-items: center;
 }
 
 .item-card a {
@@ -248,6 +249,8 @@ li {
     right: 50%;
     transform: translateX(50%);
     margin-bottom: 50px;
+    display: flex;
+    font-size: 25px;
   }
 
   #about {
