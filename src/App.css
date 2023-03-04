@@ -100,7 +100,7 @@ li {
 /* Projects */
 .pro-card {
   width: 85%;
-  margin: 200px auto;
+  margin: 175px auto;
   box-shadow: 0 0 0 0.5px #fff;
   border-radius: 10px;
 }
@@ -243,6 +243,10 @@ li {
   }
 
   .name {
-    font-size: 20px;
+    visibility: hidden;
+  }
+
+  .skills {
+    margin-top: 100px;
   }
 }
